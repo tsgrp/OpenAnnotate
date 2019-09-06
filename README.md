@@ -9,7 +9,7 @@ Please see the <a href='https://github.com/tsgrp/OpenAnnotate/wiki'>wiki</a> for
 
 Current Release 3.1
 
-Previous Releases:
+Releases:
 
 Release Name | Revision Number | Codename | Tag Date
 -- | -- | -- | --
