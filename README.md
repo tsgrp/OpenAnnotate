@@ -7,7 +7,7 @@ For information about OpenAnnotate, visit our website <a href='http:/www.tsgrp.c
 
 Please see the <a href='https://github.com/tsgrp/OpenAnnotate/wiki'>wiki</a> for documentation
 
-Current Release 3.1
+Current Release 3.2
 
 Releases:
 
