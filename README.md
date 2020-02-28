@@ -13,6 +13,7 @@ Releases:
 
 Release Name | Revision Number | Codename | Tag Date
 -- | -- | -- | --
+Winter 2020 | 3.2.6559 | The Phoenix | 02/25/2020
 Summer 2019 | 3.1.6022 | English Hanging Gardens | 08/09/2019 
 Winter 2019 | 3.0.1.5523 | Thimble | 02/15/2019
 2018 | 2.7.5181 | Stanley | 11/09/2018
