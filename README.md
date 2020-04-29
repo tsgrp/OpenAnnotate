@@ -3,7 +3,7 @@ Alfresco Enterpise Viewer (formerly OpenAnnotate)
 
 Alfresco's Browser-based Annotation Tool
 
-For information about Alfresco Enterpise Viewer, visit our website <a href='http:/www.tsgrp.com'>www.openannotate.com</a>
+For information about Alfresco Enterpise Viewer, visit our <a href='www.openannotate.com'>website</a>
 
 Please see the <a href='https://github.com/tsgrp/OpenAnnotate/wiki'>wiki</a> for documentation
 
