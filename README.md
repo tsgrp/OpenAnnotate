@@ -1,9 +1,9 @@
-OpenAnnotate
+Alfresco Enterpise Viewer (formerly OpenAnnotate)
 ============
 
-TSG's Browser-based Annotation Tool
+Alfresco's Browser-based Annotation Tool
 
-For information about OpenAnnotate, visit our website <a href='http:/www.tsgrp.com'>www.tsgrp.com</a>
+For information about Alfresco Enterpise Viewer, visit our website <a href='http:/www.tsgrp.com'>www.openannotate.com</a>
 
 Please see the <a href='https://github.com/tsgrp/OpenAnnotate/wiki'>wiki</a> for documentation
 
