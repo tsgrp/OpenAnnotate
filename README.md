@@ -7,12 +7,13 @@ For information about Alfresco Enterpise Viewer, visit our <a href='http://opena
 
 Please see the <a href='https://github.com/tsgrp/OpenAnnotate/wiki'>wiki</a> for documentation
 
-Current Release 3.2
+Current Release 3.3
 
 Releases:
 
 Release Name | Revision Number | Codename | Tag Date
 -- | -- | -- | --
+Alfresco Enterprise Viewer 3.3 | 3.3.7062 | Grand Illusion | 10/07/2020
 Alfresco Enterprise Viewer 3.2 | 3.2.6643 | The Phoenix | 04/27/2020
 Winter 2020 | 3.2.6559 | The Phoenix | 02/25/2020
 Summer 2019 | 3.1.6022 | English Hanging Gardens | 08/09/2019 
