@@ -12,7 +12,7 @@ Current Release 3.3
 Releases:
 
 Release Name | Revision Number | Codename | Tag Date | Support End of Maintenance  
--- | -- | -- | --
+-- | -- | -- | -- | --
 Alfresco Enterprise Viewer 3.3 | 3.3.7062 | Grand Illusion | 10/07/2020 | October 2023
 Alfresco Enterprise Viewer 3.2 | 3.2.6643 | The Phoenix | 04/27/2020 | April 2022
 Winter 2020 | 3.2.6559 | The Phoenix | 02/25/2020 | February 2022
